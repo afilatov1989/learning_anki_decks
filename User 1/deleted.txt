@@ -2187,3 +2187,4 @@ nid	mid	fields
 1502632185231	1448816860355	Показать на схеме структуру кэша процессора<div>Какими тремя параметрами определяется его суммарный размер?<br /><div>Объяснить, как по адресу памяти определить, в какой части кэша окажутся данные из этого адреса.</div></div>	<img src="bef8fd955582ddd6118a782632a026a5.png" />
 1498422787407	1448816860355	Нарисовать структура фрейма стэка IA32 при вызове функции. Показать значения %ebp и %esp&nbsp;	<img src="fe13c220ed3723ca39e886df0ee5d7e9.png" />
 1499978278026	1448816860355	Перечислить 5 традиционных фаз pipelining в процессоре	Instruction fetch<div>Instruction decode - including register values read</div><div>Execution - ALU computation</div><div>Memory - read and write</div><div>Write back - to registers and program counter</div>
+1498422887513	1448816860355	Описать соглашения использования регистров общего назначения при вызове функций в ассемблере IA32	<img src="fb463166176a7151a434856115182aff.png" />
