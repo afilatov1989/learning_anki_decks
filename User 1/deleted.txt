@@ -2188,3 +2188,7 @@ nid	mid	fields
 1498422787407	1448816860355	Нарисовать структура фрейма стэка IA32 при вызове функции. Показать значения %ebp и %esp&nbsp;	<img src="fe13c220ed3723ca39e886df0ee5d7e9.png" />
 1499978278026	1448816860355	Перечислить 5 традиционных фаз pipelining в процессоре	Instruction fetch<div>Instruction decode - including register values read</div><div>Execution - ALU computation</div><div>Memory - read and write</div><div>Write back - to registers and program counter</div>
 1498422887513	1448816860355	Описать соглашения использования регистров общего назначения при вызове функций в ассемблере IA32	<img src="fb463166176a7151a434856115182aff.png" />
+1497989358560	1448816860355	Написать, что значат операнды в формах:&nbsp;<div><img src="6b9e15dc8f946b2ed5b2714d1afd41b0.png" /></div>	<img src="b9af9af46391c42ea642ab7c64f009a9.png" />
+1498083028424	1448816860355	Перечислить 4 кода условий IA32	<img src="5ca9b3bb029ab3513693d6d482b2e761.png" />
+1500933489025	1448816860355	Какое время цикла имеет процессор с тактовой частотой 1 ГГЦ ?	1 наносекунда (1 / 10^9)
+1503447561173	1448816860355	Что такое TLB в системе виртуальной памяти? Расшифровка аббревиатуры и объяснение концепции	A translation lookaside buffer (TLB) is a memory cache that stores recent translations of virtual memory to physical addresses for faster retrieval.
