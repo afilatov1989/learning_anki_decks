@@ -2192,3 +2192,4 @@ nid	mid	fields
 1498083028424	1448816860355	Перечислить 4 кода условий IA32	<img src="5ca9b3bb029ab3513693d6d482b2e761.png" />
 1500933489025	1448816860355	Какое время цикла имеет процессор с тактовой частотой 1 ГГЦ ?	1 наносекунда (1 / 10^9)
 1503447561173	1448816860355	Что такое TLB в системе виртуальной памяти? Расшифровка аббревиатуры и объяснение концепции	A translation lookaside buffer (TLB) is a memory cache that stores recent translations of virtual memory to physical addresses for faster retrieval.
+1553642043586	1448816860355	Software Engineering:&nbsp;Перечислить 7 категорий участников разработки ПО	<img src="d3ad384022c56e0b39ea0a824c9bef66.png" />
