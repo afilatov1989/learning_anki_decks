@@ -21144,3 +21144,1272 @@
             (1561119259669, 1553642850581, 1869, 2, 37, 22, 2200, 64088, 1),
             (1561119311619, 1554895899236, 1869, 1, -600, 4, 2300, 51914, 1)]}
 [1561119316] sync.py:sync(): findChanges
+[1561371719] collection.py:__init__(): C:\Users\afila\Dropbox\Anki\User 1\collection.anki2, 2.1.13
+[1561371719] sched.py:_updateCutoff(): 1303, 1561424400
+[1561371719] sched.py:unburyCards(): []
+[1561371720] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 3,
+ 'mod': 1561119317159,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561371720,
+ 'uname': 'afilatov1989@gmail.com',
+ 'usn': 1870}
+[1561371720] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1561371719700,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561371720,
+ 'usn': 1870}
+[1561371720] sync.py:sync(): server chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1561371720] sync.py:newerRows(): cards, []
+[1561371720] sync.py:newerRows(): notes, []
+[1561371720] sync.py:sync(): client chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1561371721] sync.py:sync(): findChanges
+[1561371721] collection.py:__init__(): C:\Users\afila\Dropbox\Anki\User 1\collection.anki2, 2.1.13
+[1561371721] sched.py:_updateCutoff(): 1303, 1561424400
+[1561371726] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561119911, 'factor': 2300, 'flags': 0, 'id': 1554895899236, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1561119311, 'nid': 1554892753922, 'odid': 0, 'odue': 1301, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 2, 'usn': 1869}
+[1561371765] sched.py:answerCard(): 
+[1561371765] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1304, 'factor': 2300, 'flags': 0, 'id': 1554895899236, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1561371765, 'nid': 1554892753922, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561371765] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1271, 'factor': 2350, 'flags': 0, 'id': 1554804117965, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1557821888, 'nid': 1554803682006, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 1848}
+[1561371846] sched.py:answerCard(): 
+[1561371846] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1326, 'factor': 2200, 'flags': 0, 'id': 1554804117965, 'ivl': 23, 'lapses': 0, 'lastIvl': 9, 'left': 1001, 'mod': 1561371846, 'nid': 1554803682006, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561371846] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1271, 'factor': 2000, 'flags': 0, 'id': 1553643067191, 'ivl': 7, 'lapses': 1, 'left': 1001, 'mod': 1557992068, 'nid': 1553642850603, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 1852}
+[1561371906] sched.py:answerCard(): 
+[1561371906] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1321, 'factor': 1850, 'flags': 0, 'id': 1553643067191, 'ivl': 18, 'lapses': 1, 'lastIvl': 7, 'left': 1001, 'mod': 1561371906, 'nid': 1553642850603, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561371906] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 5903, 'factor': 0, 'flags': 0, 'id': 1555251998162, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1555251998, 'nid': 1555251202807, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 1814}
+[1561372033] sched.py:answerCard(): 
+[1561372033] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561372641, 'factor': 0, 'flags': 0, 'id': 1555251998162, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561372033, 'nid': 1555251202807, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1561372033] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1272, 'factor': 2200, 'flags': 0, 'id': 1554632168759, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1557991856, 'nid': 1554630578175, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 1852}
+[1561372155] sched.py:answerCard(): 
+[1561372155] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1322, 'factor': 2050, 'flags': 0, 'id': 1554632168759, 'ivl': 19, 'lapses': 0, 'lastIvl': 8, 'left': 1001, 'mod': 1561372155, 'nid': 1554630578175, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561372155] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1271, 'factor': 2500, 'flags': 0, 'id': 1555067256991, 'ivl': 3, 'lapses': 0, 'left': 2002, 'mod': 1558378433, 'nid': 1555066554484, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 1, 'type': 2, 'usn': 1857}
+[1561372185] sched.py:answerCard(): 
+[1561372185] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1352, 'factor': 2500, 'flags': 0, 'id': 1555067256991, 'ivl': 49, 'lapses': 0, 'lastIvl': 3, 'left': 2002, 'mod': 1561372185, 'nid': 1555066554484, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561372185] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 5904, 'factor': 0, 'flags': 0, 'id': 1555252573801, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1555252573, 'nid': 1555251998205, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 1814}
+[1561372237] sched.py:answerCard(): 
+[1561372237] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561372914, 'factor': 0, 'flags': 0, 'id': 1555252573801, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561372237, 'nid': 1555251998205, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1561372237] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1273, 'factor': 2500, 'flags': 0, 'id': 1555066178325, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1558378096, 'nid': 1555058844965, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 1857}
+[1561372311] sched.py:answerCard(): 
+[1561372311] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561372911, 'factor': 2300, 'flags': 0, 'id': 1555066178325, 'ivl': 1, 'lapses': 1, 'lastIvl': 5, 'left': 1001, 'mod': 1561372311, 'nid': 1555058844965, 'odid': 0, 'odue': 1304, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561372311] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1264, 'factor': 2500, 'flags': 0, 'id': 1554911190232, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1557910383, 'nid': 1554910642541, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 1850}
+[1561372364] sched.py:answerCard(): 
+[1561372364] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561372964, 'factor': 2300, 'flags': 0, 'id': 1554911190232, 'ivl': 1, 'lapses': 1, 'lastIvl': 1, 'left': 1001, 'mod': 1561372364, 'nid': 1554910642541, 'odid': 0, 'odue': 1304, 'ord': 0, 'queue': 1, 'reps': 5, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561372364] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 5905, 'factor': 0, 'flags': 0, 'id': 1555272840334, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1555272840, 'nid': 1555252573819, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 1814}
+[1561372380] sched.py:answerCard(): 
+[1561372380] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561373071, 'factor': 0, 'flags': 0, 'id': 1555272840334, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561372380, 'nid': 1555252573819, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1561372380] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1272, 'factor': 2350, 'flags': 0, 'id': 1553640787464, 'ivl': 23, 'lapses': 0, 'left': 1001, 'mod': 1556700372, 'nid': 1553640658436, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 1844}
+[1561372388] sched.py:answerCard(): 
+[1561372388] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561372988, 'factor': 2150, 'flags': 0, 'id': 1553640787464, 'ivl': 1, 'lapses': 1, 'lastIvl': 23, 'left': 1001, 'mod': 1561372388, 'nid': 1553640658436, 'odid': 0, 'odue': 1304, 'ord': 0, 'queue': 1, 'reps': 7, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561372388] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1268, 'factor': 2500, 'flags': 0, 'id': 1555056955871, 'ivl': 4, 'lapses': 0, 'left': 2002, 'mod': 1557992009, 'nid': 1555056610111, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 1, 'type': 2, 'usn': 1852}
+[1561372408] sched.py:answerCard(): 
+[1561372408] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1317, 'factor': 2350, 'flags': 0, 'id': 1555056955871, 'ivl': 14, 'lapses': 0, 'lastIvl': 4, 'left': 2002, 'mod': 1561372408, 'nid': 1555056610111, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561372408] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 5906, 'factor': 0, 'flags': 0, 'id': 1555496111191, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1555496111, 'nid': 1555492864723, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 1821}
+[1561372423] collection.py:__init__(): C:\Users\afila\Dropbox\Anki\User 1\collection.anki2, 2.1.13
+[1561372423] sched.py:_updateCutoff(): 1303, 1561424400
+[1561372423] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 3,
+ 'mod': 1561371721190,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561372423,
+ 'uname': 'afilatov1989@gmail.com',
+ 'usn': 1871}
+[1561372423] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1561372422919,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561372423,
+ 'usn': 1871}
+[1561372424] sync.py:sync(): server chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1561372424] sync.py:newerRows(): cards, []
+[1561372424] sync.py:newerRows(): notes, []
+[1561372424] sync.py:sync(): client chunk, {'cards': [(1553640787464,
+            1553640658436,
+            1553377434964,
+            0,
+            1561372388,
+            1871,
+            2,
+            1,
+            1561372988,
+            1,
+            2150,
+            7,
+            1,
+            1001,
+            1304,
+            0,
+            0,
+            ''),
+           (1553643067191,
+            1553642850603,
+            1553377434964,
+            0,
+            1561371906,
+            1871,
+            2,
+            2,
+            1321,
+            18,
+            1850,
+            7,
+            1,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1554632168759,
+            1554630578175,
+            1553377434964,
+            0,
+            1561372155,
+            1871,
+            2,
+            2,
+            1322,
+            19,
+            2050,
+            7,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1554804117965,
+            1554803682006,
+            1553377434964,
+            0,
+            1561371846,
+            1871,
+            2,
+            2,
+            1326,
+            23,
+            2200,
+            4,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1554895899236,
+            1554892753922,
+            1553377434964,
+            0,
+            1561371765,
+            1871,
+            2,
+            2,
+            1304,
+            1,
+            2300,
+            3,
+            1,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1554911190232,
+            1554910642541,
+            1553377434964,
+            0,
+            1561372364,
+            1871,
+            2,
+            1,
+            1561372964,
+            1,
+            2300,
+            5,
+            1,
+            1001,
+            1304,
+            0,
+            0,
+            ''),
+           (1555056955871,
+            1555056610111,
+            1553377434964,
+            0,
+            1561372408,
+            1871,
+            2,
+            2,
+            1317,
+            14,
+            2350,
+            2,
+            0,
+            2002,
+            0,
+            0,
+            0,
+            ''),
+           (1555066178325,
+            1555058844965,
+            1553377434964,
+            0,
+            1561372311,
+            1871,
+            2,
+            1,
+            1561372911,
+            1,
+            2300,
+            3,
+            1,
+            1001,
+            1304,
+            0,
+            0,
+            ''),
+           (1555067256991,
+            1555066554484,
+            1553377434964,
+            0,
+            1561372185,
+            1871,
+            2,
+            2,
+            1352,
+            49,
+            2500,
+            2,
+            0,
+            2002,
+            0,
+            0,
+            0,
+            ''),
+           (1555251998162,
+            1555251202807,
+            1553377434964,
+            0,
+            1561372033,
+            1871,
+            1,
+            1,
+            1561372641,
+            0,
+            0,
+            1,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1555252573801,
+            1555251998205,
+            1553377434964,
+            0,
+            1561372237,
+            1871,
+            1,
+            1,
+            1561372914,
+            0,
+            0,
+            1,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1555272840334,
+            1555252573819,
+            1553377434964,
+            0,
+            1561372380,
+            1871,
+            1,
+            1,
+            1561373071,
+            0,
+            0,
+            1,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            '')],
+ 'done': True,
+ 'notes': [],
+ 'revlog': [(1561371765901, 1554895899236, 1871, 2, 1, -600, 2300, 39062, 2),
+            (1561371846157, 1554804117965, 1871, 2, 23, 9, 2200, 80250, 1),
+            (1561371906988, 1553643067191, 1871, 2, 18, 7, 1850, 60830, 1),
+            (1561372033231, 1555251998162, 1871, 2, -600, -60, 0, 126242, 0),
+            (1561372155708, 1554632168759, 1871, 2, 19, 8, 2050, 122423, 1),
+            (1561372185915, 1555067256991, 1871, 3, 49, 3, 2500, 30205, 1),
+            (1561372237571, 1555252573801, 1871, 2, -600, -60, 0, 51655, 0),
+            (1561372311580, 1555066178325, 1871, 1, -600, 5, 2300, 74007, 1),
+            (1561372364882, 1554911190232, 1871, 1, -600, 1, 2300, 53301, 1),
+            (1561372380803, 1555272840334, 1871, 2, -600, -60, 0, 15892, 0),
+            (1561372388242, 1553640787464, 1871, 1, -600, 23, 2150, 7437, 1),
+            (1561372408482, 1555056955871, 1871, 2, 14, 4, 2350, 20240, 1)]}
+[1561372424] sync.py:sync(): findChanges
+[1561448411] collection.py:__init__(): C:\Users\afila\Dropbox\Anki\User 1\collection.anki2, 2.1.13
+[1561448411] sched.py:_updateCutoff(): 1304, 1561510800
+[1561448411] sched.py:unburyCards(): []
+[1561448412] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 3,
+ 'mod': 1561372424386,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561448412,
+ 'uname': 'afilatov1989@gmail.com',
+ 'usn': 1872}
+[1561448412] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1561448411459,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561448412,
+ 'usn': 1872}
+[1561448412] sync.py:sync(): server chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1561448412] sync.py:newerRows(): cards, []
+[1561448412] sync.py:newerRows(): notes, []
+[1561448412] sync.py:sync(): client chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1561448412] sync.py:sync(): findChanges
+[1561448412] collection.py:__init__(): C:\Users\afila\Dropbox\Anki\User 1\collection.anki2, 2.1.13
+[1561448412] sched.py:_updateCutoff(): 1304, 1561510800
+[1561448426] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561372641, 'factor': 0, 'flags': 0, 'id': 1555251998162, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561372033, 'nid': 1555251202807, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': 1871}
+[1561448568] sched.py:answerCard(): 
+[1561448568] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1307, 'factor': 2500, 'flags': 0, 'id': 1555251998162, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1561448568, 'nid': 1555251202807, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561448568] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561372911, 'factor': 2300, 'flags': 0, 'id': 1555066178325, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1561372311, 'nid': 1555058844965, 'odid': 0, 'odue': 1304, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 2, 'usn': 1871}
+[1561448615] sched.py:answerCard(): 
+[1561448615] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1305, 'factor': 2300, 'flags': 0, 'id': 1555066178325, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1561448615, 'nid': 1555058844965, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561448615] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561372914, 'factor': 0, 'flags': 0, 'id': 1555252573801, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561372237, 'nid': 1555251998205, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': 1871}
+[1561448682] sched.py:answerCard(): 
+[1561448682] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1309, 'factor': 2500, 'flags': 0, 'id': 1555252573801, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1561448682, 'nid': 1555251998205, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561448682] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561372964, 'factor': 2300, 'flags': 0, 'id': 1554911190232, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1561372364, 'nid': 1554910642541, 'odid': 0, 'odue': 1304, 'ord': 0, 'queue': 1, 'reps': 5, 'type': 2, 'usn': 1871}
+[1561448817] sched.py:answerCard(): 
+[1561448817] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561449505, 'factor': 2300, 'flags': 0, 'id': 1554911190232, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1561448817, 'nid': 1554910642541, 'odid': 0, 'odue': 1304, 'ord': 0, 'queue': 1, 'reps': 6, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561448817] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561372988, 'factor': 2150, 'flags': 0, 'id': 1553640787464, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1561372388, 'nid': 1553640658436, 'odid': 0, 'odue': 1304, 'ord': 0, 'queue': 1, 'reps': 7, 'type': 2, 'usn': 1871}
+[1561448898] sched.py:answerCard(): 
+[1561448898] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1305, 'factor': 2150, 'flags': 0, 'id': 1553640787464, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1561448898, 'nid': 1553640658436, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561448898] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561373071, 'factor': 0, 'flags': 0, 'id': 1555272840334, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561372380, 'nid': 1555252573819, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': 1871}
+[1561449097] sched.py:answerCard(): 
+[1561449097] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561449162, 'factor': 0, 'flags': 0, 'id': 1555272840334, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1561449097, 'nid': 1555252573819, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1561449097] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 5906, 'factor': 0, 'flags': 0, 'id': 1555496111191, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1555496111, 'nid': 1555492864723, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 1821}
+[1561449161] sched.py:answerCard(): 
+[1561449161] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561449849, 'factor': 0, 'flags': 0, 'id': 1555496111191, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561449161, 'nid': 1555492864723, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1561449161] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1276, 'factor': 2300, 'flags': 0, 'id': 1554629931361, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1558938980, 'nid': 1554629532696, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 1859}
+[1561449381] sched.py:answerCard(): 
+[1561449381] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561449981, 'factor': 2100, 'flags': 0, 'id': 1554629931361, 'ivl': 1, 'lapses': 2, 'lastIvl': 1, 'left': 1001, 'mod': 1561449381, 'nid': 1554629532696, 'odid': 0, 'odue': 1305, 'ord': 0, 'queue': 1, 'reps': 6, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561449381] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561449162, 'factor': 0, 'flags': 0, 'id': 1555272840334, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1561449097, 'nid': 1555252573819, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1561449535] sched.py:answerCard(): 
+[1561449535] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561450140, 'factor': 0, 'flags': 0, 'id': 1555272840334, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561449535, 'nid': 1555252573819, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1561449535] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561449505, 'factor': 2300, 'flags': 0, 'id': 1554911190232, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1561448817, 'nid': 1554910642541, 'odid': 0, 'odue': 1304, 'ord': 0, 'queue': 1, 'reps': 6, 'type': 2, 'usn': -1}
+[1561449612] sched.py:answerCard(): 
+[1561449612] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1305, 'factor': 2300, 'flags': 0, 'id': 1554911190232, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1561449612, 'nid': 1554910642541, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561449612] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1276, 'factor': 2650, 'flags': 0, 'id': 1553380233820, 'ivl': 43, 'lapses': 0, 'left': 2002, 'mod': 1555316310, 'nid': 1553380191182, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 1816}
+[1561449637] sched.py:answerCard(): 
+[1561449637] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1367, 'factor': 2500, 'flags': 0, 'id': 1553380233820, 'ivl': 63, 'lapses': 0, 'lastIvl': 43, 'left': 2002, 'mod': 1561449637, 'nid': 1553380191182, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561449637] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1267, 'factor': 2500, 'flags': 0, 'id': 1554913322553, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1557910466, 'nid': 1554912925676, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 1850}
+[1561452929] collection.py:__init__(): C:\Users\afila\Dropbox\Anki\User 1\collection.anki2, 2.1.13
+[1561452929] sched.py:_updateCutoff(): 1304, 1561510800
+[1561452930] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 3,
+ 'mod': 1561448412817,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561452930,
+ 'uname': 'afilatov1989@gmail.com',
+ 'usn': 1873}
+[1561452930] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1561452929236,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561452930,
+ 'usn': 1873}
+[1561452930] sync.py:sync(): server chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1561452930] sync.py:newerRows(): cards, []
+[1561452930] sync.py:newerRows(): notes, []
+[1561452930] sync.py:sync(): client chunk, {'cards': [(1553380233820,
+            1553380191182,
+            1553377434964,
+            0,
+            1561449637,
+            1873,
+            2,
+            2,
+            1367,
+            63,
+            2500,
+            4,
+            0,
+            2002,
+            0,
+            0,
+            0,
+            ''),
+           (1553640787464,
+            1553640658436,
+            1553377434964,
+            0,
+            1561448898,
+            1873,
+            2,
+            2,
+            1305,
+            1,
+            2150,
+            8,
+            1,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1554629931361,
+            1554629532696,
+            1553377434964,
+            0,
+            1561449381,
+            1873,
+            2,
+            1,
+            1561449981,
+            1,
+            2100,
+            6,
+            2,
+            1001,
+            1305,
+            0,
+            0,
+            ''),
+           (1554911190232,
+            1554910642541,
+            1553377434964,
+            0,
+            1561449612,
+            1873,
+            2,
+            2,
+            1305,
+            1,
+            2300,
+            7,
+            1,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1555066178325,
+            1555058844965,
+            1553377434964,
+            0,
+            1561448615,
+            1873,
+            2,
+            2,
+            1305,
+            1,
+            2300,
+            4,
+            1,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1555251998162,
+            1555251202807,
+            1553377434964,
+            0,
+            1561448568,
+            1873,
+            2,
+            2,
+            1307,
+            3,
+            2500,
+            2,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1555252573801,
+            1555251998205,
+            1553377434964,
+            0,
+            1561448682,
+            1873,
+            2,
+            2,
+            1309,
+            5,
+            2500,
+            2,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1555272840334,
+            1555252573819,
+            1553377434964,
+            0,
+            1561449535,
+            1873,
+            1,
+            1,
+            1561450140,
+            0,
+            0,
+            3,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1555496111191,
+            1555492864723,
+            1553377434964,
+            0,
+            1561449161,
+            1873,
+            1,
+            1,
+            1561449849,
+            0,
+            0,
+            1,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            '')],
+ 'done': True,
+ 'notes': [],
+ 'revlog': [(1561448568277, 1555251998162, 1873, 3, 3, -600, 2500, 141938, 0),
+            (1561448615586, 1555066178325, 1873, 2, 1, -600, 2300, 47303, 2),
+            (1561448682113, 1555252573801, 1873, 3, 5, -600, 2500, 66527, 0),
+            (1561448817760,
+             1554911190232,
+             1873,
+             1,
+             -600,
+             -600,
+             2300,
+             135645,
+             2),
+            (1561448898320, 1553640787464, 1873, 2, 1, -600, 2150, 80517, 2),
+            (1561449097214, 1555272840334, 1873, 1, -60, -600, 0, 198893, 0),
+            (1561449161400, 1555496111191, 1873, 2, -600, -60, 0, 64184, 0),
+            (1561449381567, 1554629931361, 1873, 1, -600, 1, 2100, 220137, 1),
+            (1561449535874, 1555272840334, 1873, 2, -600, -60, 0, 154305, 0),
+            (1561449612774, 1554911190232, 1873, 2, 1, -600, 2300, 76870, 2),
+            (1561449637070, 1553380233820, 1873, 2, 63, 43, 2500, 24293, 1)]}
+[1561452930] sync.py:sync(): findChanges
+[1561553118] collection.py:__init__(): C:\Users\afila\Dropbox\Anki\User 1\collection.anki2, 2.1.13
+[1561553118] sched.py:_updateCutoff(): 1305, 1561597200
+[1561553119] sched.py:unburyCards(): []
+[1561553121] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 3,
+ 'mod': 1561452930792,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561553121,
+ 'uname': 'afilatov1989@gmail.com',
+ 'usn': 1874}
+[1561553121] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1561553119003,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561553121,
+ 'usn': 1874}
+[1561553123] sync.py:sync(): server chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1561553123] sync.py:newerRows(): cards, []
+[1561553123] sync.py:newerRows(): notes, []
+[1561553123] sync.py:sync(): client chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1561553124] sync.py:sync(): findChanges
+[1561553124] collection.py:__init__(): C:\Users\afila\Dropbox\Anki\User 1\collection.anki2, 2.1.13
+[1561553124] sched.py:_updateCutoff(): 1305, 1561597200
+[1561553133] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561449849, 'factor': 0, 'flags': 0, 'id': 1555496111191, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561449161, 'nid': 1555492864723, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': 1873}
+[1561553229] sched.py:answerCard(): 
+[1561553229] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561553299, 'factor': 0, 'flags': 0, 'id': 1555496111191, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1561553229, 'nid': 1555492864723, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1, 'wasNew': False}
+[1561553229] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561449981, 'factor': 2100, 'flags': 0, 'id': 1554629931361, 'ivl': 1, 'lapses': 2, 'left': 1001, 'mod': 1561449381, 'nid': 1554629532696, 'odid': 0, 'odue': 1305, 'ord': 0, 'queue': 1, 'reps': 6, 'type': 2, 'usn': 1873}
+[1561553267] sched.py:answerCard(): 
+[1561553267] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1306, 'factor': 2100, 'flags': 0, 'id': 1554629931361, 'ivl': 1, 'lapses': 2, 'left': 1001, 'mod': 1561553267, 'nid': 1554629532696, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561553267] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561450140, 'factor': 0, 'flags': 0, 'id': 1555272840334, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561449535, 'nid': 1555252573819, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': 1873}
+[1561553904] sched.py:answerCard(): 
+[1561553904] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561553977, 'factor': 0, 'flags': 0, 'id': 1555272840334, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1561553904, 'nid': 1555252573819, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1, 'wasNew': False}
+[1561553904] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561553299, 'factor': 0, 'flags': 0, 'id': 1555496111191, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1561553229, 'nid': 1555492864723, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1561553996] sched.py:answerCard(): 
+[1561553996] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561554736, 'factor': 0, 'flags': 0, 'id': 1555496111191, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561553996, 'nid': 1555492864723, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1, 'wasNew': False}
+[1561553996] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561553977, 'factor': 0, 'flags': 0, 'id': 1555272840334, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1561553904, 'nid': 1555252573819, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 1, 'usn': -1}
+[1561554198] sched.py:answerCard(): 
+[1561554198] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1308, 'factor': 2500, 'flags': 0, 'id': 1555272840334, 'ivl': 3, 'lapses': 0, 'left': 2002, 'mod': 1561554198, 'nid': 1555252573819, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561554198] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1273, 'factor': 2500, 'flags': 0, 'id': 1555067657741, 'ivl': 5, 'lapses': 0, 'left': 2002, 'mod': 1558378517, 'nid': 1555067257012, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 1, 'type': 2, 'usn': 1857}
+[1561554240] sched.py:answerCard(): 
+[1561554240] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1356, 'factor': 2500, 'flags': 0, 'id': 1555067657741, 'ivl': 51, 'lapses': 0, 'lastIvl': 5, 'left': 2002, 'mod': 1561554240, 'nid': 1555067257012, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561554240] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 5907, 'factor': 0, 'flags': 0, 'id': 1555496994360, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1555496994, 'nid': 1555496557612, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 1821}
+[1561554279] sched.py:answerCard(): 
+[1561554279] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1310, 'factor': 2500, 'flags': 0, 'id': 1555496994360, 'ivl': 5, 'lapses': 0, 'left': 2002, 'mod': 1561554279, 'nid': 1555496557612, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 1, 'type': 2, 'usn': -1, 'wasNew': True}
+[1561554279] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1276, 'factor': 2500, 'flags': 0, 'id': 1555066554450, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1558938959, 'nid': 1555066178366, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 1859}
+[1561554340] sched.py:answerCard(): 
+[1561554340] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1315, 'factor': 2350, 'flags': 0, 'id': 1555066554450, 'ivl': 10, 'lapses': 0, 'lastIvl': 1, 'left': 1001, 'mod': 1561554340, 'nid': 1555066178366, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561554340] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1276, 'factor': 2350, 'flags': 0, 'id': 1554804922099, 'ivl': 11, 'lapses': 0, 'left': 1001, 'mod': 1558102593, 'nid': 1554804117985, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 1854}
+[1561554394] sched.py:answerCard(): 
+[1561554394] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1327, 'factor': 2200, 'flags': 0, 'id': 1554804922099, 'ivl': 22, 'lapses': 0, 'lastIvl': 11, 'left': 1001, 'mod': 1561554394, 'nid': 1554804117985, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561554394] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 5908, 'factor': 0, 'flags': 0, 'id': 1555497575077, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1555497575, 'nid': 1555496994443, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 1821}
+[1561554471] sched.py:answerCard(): 
+[1561554471] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561555103, 'factor': 0, 'flags': 0, 'id': 1555497575077, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561554471, 'nid': 1555496994443, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1561554471] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1279, 'factor': 2650, 'flags': 0, 'id': 1553642342916, 'ivl': 37, 'lapses': 0, 'left': 2002, 'mod': 1556094541, 'nid': 1553642202981, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 1833}
+[1561554504] sched.py:answerCard(): 
+[1561554504] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1358, 'factor': 2500, 'flags': 0, 'id': 1553642342916, 'ivl': 53, 'lapses': 0, 'lastIvl': 37, 'left': 2002, 'mod': 1561554504, 'nid': 1553642202981, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561554504] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1274, 'factor': 2350, 'flags': 0, 'id': 1554800902163, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1557991970, 'nid': 1554800602095, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 1852}
+[1561554518] collection.py:__init__(): C:\Users\afila\Dropbox\Anki\User 1\collection.anki2, 2.1.13
+[1561554518] sched.py:_updateCutoff(): 1305, 1561597200
+[1561554519] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 3,
+ 'mod': 1561553124582,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561554520,
+ 'uname': 'afilatov1989@gmail.com',
+ 'usn': 1875}
+[1561554519] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1561554517672,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561554519,
+ 'usn': 1875}
+[1561554521] sync.py:sync(): server chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1561554521] sync.py:newerRows(): cards, []
+[1561554521] sync.py:newerRows(): notes, []
+[1561554521] sync.py:sync(): client chunk, {'cards': [(1553642342916,
+            1553642202981,
+            1553377434964,
+            0,
+            1561554504,
+            1875,
+            2,
+            2,
+            1358,
+            53,
+            2500,
+            4,
+            0,
+            2002,
+            0,
+            0,
+            0,
+            ''),
+           (1554629931361,
+            1554629532696,
+            1553377434964,
+            0,
+            1561553267,
+            1875,
+            2,
+            2,
+            1306,
+            1,
+            2100,
+            7,
+            2,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1554804922099,
+            1554804117985,
+            1553377434964,
+            0,
+            1561554394,
+            1875,
+            2,
+            2,
+            1327,
+            22,
+            2200,
+            4,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1555066554450,
+            1555066178366,
+            1553377434964,
+            0,
+            1561554340,
+            1875,
+            2,
+            2,
+            1315,
+            10,
+            2350,
+            3,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1555067657741,
+            1555067257012,
+            1553377434964,
+            0,
+            1561554240,
+            1875,
+            2,
+            2,
+            1356,
+            51,
+            2500,
+            2,
+            0,
+            2002,
+            0,
+            0,
+            0,
+            ''),
+           (1555272840334,
+            1555252573819,
+            1553377434964,
+            0,
+            1561554198,
+            1875,
+            2,
+            2,
+            1308,
+            3,
+            2500,
+            5,
+            0,
+            2002,
+            0,
+            0,
+            0,
+            ''),
+           (1555496111191,
+            1555492864723,
+            1553377434964,
+            0,
+            1561553996,
+            1875,
+            1,
+            1,
+            1561554736,
+            0,
+            0,
+            3,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1555496994360,
+            1555496557612,
+            1553377434964,
+            0,
+            1561554279,
+            1875,
+            2,
+            2,
+            1310,
+            5,
+            2500,
+            1,
+            0,
+            2002,
+            0,
+            0,
+            0,
+            ''),
+           (1555497575077,
+            1555496994443,
+            1553377434964,
+            0,
+            1561554471,
+            1875,
+            1,
+            1,
+            1561555103,
+            0,
+            0,
+            1,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            '')],
+ 'done': True,
+ 'notes': [],
+ 'revlog': [(1561553229550, 1555496111191, 1875, 1, -60, -600, 0, 95662, 0),
+            (1561553267762, 1554629931361, 1875, 2, 1, -600, 2100, 38206, 2),
+            (1561553904089, 1555272840334, 1875, 1, -60, -600, 0, 600000, 0),
+            (1561553996930, 1555496111191, 1875, 2, -600, -60, 0, 92802, 0),
+            (1561554198023, 1555272840334, 1875, 3, 3, -60, 2500, 201092, 0),
+            (1561554240888, 1555067657741, 1875, 3, 51, 5, 2500, 42864, 1),
+            (1561554279768, 1555496994360, 1875, 3, 5, -60, 2500, 38826, 0),
+            (1561554340054, 1555066554450, 1875, 2, 10, 1, 2350, 60284, 1),
+            (1561554394424, 1554804922099, 1875, 2, 22, 11, 2200, 54368, 1),
+            (1561554471368, 1555497575077, 1875, 2, -600, -60, 0, 76943, 0),
+            (1561554504135, 1553642342916, 1875, 2, 53, 37, 2500, 32766, 1)]}
+[1561554522] sync.py:sync(): findChanges
+[1561629990] collection.py:__init__(): C:\Users\afila\Dropbox\Anki\User 1\collection.anki2, 2.1.13
+[1561629990] sched.py:_updateCutoff(): 1306, 1561683600
+[1561629990] sched.py:unburyCards(): []
+[1561629993] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 3,
+ 'mod': 1561554522637,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561629993,
+ 'uname': 'afilatov1989@gmail.com',
+ 'usn': 1876}
+[1561629993] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1561629990163,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561629993,
+ 'usn': 1876}
+[1561629995] sync.py:sync(): server chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1561629995] sync.py:newerRows(): cards, []
+[1561629995] sync.py:newerRows(): notes, []
+[1561629995] sync.py:sync(): client chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1561629996] sync.py:sync(): findChanges
+[1561629997] collection.py:__init__(): C:\Users\afila\Dropbox\Anki\User 1\collection.anki2, 2.1.13
+[1561629997] sched.py:_updateCutoff(): 1306, 1561683600
+[1561630006] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561554736, 'factor': 0, 'flags': 0, 'id': 1555496111191, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561553996, 'nid': 1555492864723, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': 1875}
+[1561630087] sched.py:answerCard(): 
+[1561630087] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1309, 'factor': 2500, 'flags': 0, 'id': 1555496111191, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1561630087, 'nid': 1555492864723, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561630087] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561555103, 'factor': 0, 'flags': 0, 'id': 1555497575077, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561554471, 'nid': 1555496994443, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': 1875}
+[1561630121] sched.py:answerCard(): 
+[1561630121] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1309, 'factor': 2500, 'flags': 0, 'id': 1555497575077, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1561630121, 'nid': 1555496994443, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561630121] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1280, 'factor': 2500, 'flags': 0, 'id': 1553381288495, 'ivl': 39, 'lapses': 0, 'left': 2002, 'mod': 1556008175, 'nid': 1553380893115, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 1830}
+[1561630174] sched.py:answerCard(): 
+[1561630174] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561630774, 'factor': 2300, 'flags': 0, 'id': 1553381288495, 'ivl': 1, 'lapses': 1, 'lastIvl': 39, 'left': 1001, 'mod': 1561630174, 'nid': 1553380893115, 'odid': 0, 'odue': 1307, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561630174] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 5909, 'factor': 0, 'flags': 0, 'id': 1555497797301, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1555497797, 'nid': 1555497575107, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 1821}
+[1561630212] sched.py:answerCard(): 
+[1561630212] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561630892, 'factor': 0, 'flags': 0, 'id': 1555497797301, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561630212, 'nid': 1555497575107, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1561630212] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1280, 'factor': 2200, 'flags': 0, 'id': 1554628755225, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1558378593, 'nid': 1554628496384, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 1857}
+[1561630265] sched.py:answerCard(): 
+[1561630265] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561630865, 'factor': 2000, 'flags': 0, 'id': 1554628755225, 'ivl': 1, 'lapses': 1, 'lastIvl': 12, 'left': 1001, 'mod': 1561630265, 'nid': 1554628496384, 'odid': 0, 'odue': 1307, 'ord': 0, 'queue': 1, 'reps': 5, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561630265] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1270, 'factor': 2350, 'flags': 0, 'id': 1554802441656, 'ivl': 8, 'lapses': 0, 'left': 2002, 'mod': 1557821810, 'nid': 1554802099415, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 1848}
+[1561630317] sched.py:answerCard(): 
+[1561630317] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1327, 'factor': 2200, 'flags': 0, 'id': 1554802441656, 'ivl': 21, 'lapses': 0, 'lastIvl': 8, 'left': 2002, 'mod': 1561630317, 'nid': 1554802099415, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561630317] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 5910, 'factor': 0, 'flags': 0, 'id': 1555497855005, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1555497855, 'nid': 1555497797307, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 1821}
+[1561630380] sched.py:answerCard(): 
+[1561630380] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1311, 'factor': 2500, 'flags': 0, 'id': 1555497855005, 'ivl': 5, 'lapses': 0, 'left': 2002, 'mod': 1561630380, 'nid': 1555497797307, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 1, 'type': 2, 'usn': -1, 'wasNew': True}
+[1561630380] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1280, 'factor': 2500, 'flags': 0, 'id': 1555068691145, 'ivl': 5, 'lapses': 0, 'left': 2002, 'mod': 1558939025, 'nid': 1555067657864, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 1, 'type': 2, 'usn': 1859}
+[1561630417] sched.py:answerCard(): 
+[1561630417] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1350, 'factor': 2500, 'flags': 0, 'id': 1555068691145, 'ivl': 44, 'lapses': 0, 'lastIvl': 5, 'left': 2002, 'mod': 1561630417, 'nid': 1555067657864, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561630417] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1274, 'factor': 2350, 'flags': 0, 'id': 1554800902163, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1557991970, 'nid': 1554800602095, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 1852}
+[1561630430] collection.py:__init__(): C:\Users\afila\Dropbox\Anki\User 1\collection.anki2, 2.1.13
+[1561630430] sched.py:_updateCutoff(): 1306, 1561683600
+[1561630432] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 3,
+ 'mod': 1561629996647,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561630432,
+ 'uname': 'afilatov1989@gmail.com',
+ 'usn': 1877}
+[1561630432] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1561630429804,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561630432,
+ 'usn': 1877}
+[1561630433] sync.py:sync(): server chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1561630433] sync.py:newerRows(): cards, []
+[1561630433] sync.py:newerRows(): notes, []
+[1561630433] sync.py:sync(): client chunk, {'cards': [(1553381288495,
+            1553380893115,
+            1553377434964,
+            0,
+            1561630174,
+            1877,
+            2,
+            1,
+            1561630774,
+            1,
+            2300,
+            4,
+            1,
+            1001,
+            1307,
+            0,
+            0,
+            ''),
+           (1554628755225,
+            1554628496384,
+            1553377434964,
+            0,
+            1561630265,
+            1877,
+            2,
+            1,
+            1561630865,
+            1,
+            2000,
+            5,
+            1,
+            1001,
+            1307,
+            0,
+            0,
+            ''),
+           (1554802441656,
+            1554802099415,
+            1553377434964,
+            0,
+            1561630317,
+            1877,
+            2,
+            2,
+            1327,
+            21,
+            2200,
+            3,
+            0,
+            2002,
+            0,
+            0,
+            0,
+            ''),
+           (1555068691145,
+            1555067657864,
+            1553377434964,
+            0,
+            1561630417,
+            1877,
+            2,
+            2,
+            1350,
+            44,
+            2500,
+            2,
+            0,
+            2002,
+            0,
+            0,
+            0,
+            ''),
+           (1555496111191,
+            1555492864723,
+            1553377434964,
+            0,
+            1561630087,
+            1877,
+            2,
+            2,
+            1309,
+            3,
+            2500,
+            4,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1555497575077,
+            1555496994443,
+            1553377434964,
+            0,
+            1561630121,
+            1877,
+            2,
+            2,
+            1309,
+            3,
+            2500,
+            2,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1555497797301,
+            1555497575107,
+            1553377434964,
+            0,
+            1561630212,
+            1877,
+            1,
+            1,
+            1561630892,
+            0,
+            0,
+            1,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1555497855005,
+            1555497797307,
+            1553377434964,
+            0,
+            1561630380,
+            1877,
+            2,
+            2,
+            1311,
+            5,
+            2500,
+            1,
+            0,
+            2002,
+            0,
+            0,
+            0,
+            '')],
+ 'done': True,
+ 'notes': [],
+ 'revlog': [(1561630087822, 1555496111191, 1877, 3, 3, -600, 2500, 80966, 0),
+            (1561630121844, 1555497575077, 1877, 3, 3, -600, 2500, 34019, 0),
+            (1561630174085, 1553381288495, 1877, 1, -600, 39, 2300, 52239, 1),
+            (1561630212977, 1555497797301, 1877, 2, -600, -60, 0, 38890, 0),
+            (1561630265693, 1554628755225, 1877, 1, -600, 12, 2000, 52715, 1),
+            (1561630317110, 1554802441656, 1877, 2, 21, 8, 2200, 51416, 1),
+            (1561630380236, 1555497855005, 1877, 3, 5, -60, 2500, 63086, 0),
+            (1561630417548, 1555068691145, 1877, 3, 44, 5, 2500, 37310, 1)]}
+[1561630434] sync.py:sync(): findChanges
+[1561709672] collection.py:__init__(): C:\Users\afila\Dropbox\Anki\User 1\collection.anki2, 2.1.13
+[1561709672] sched.py:_updateCutoff(): 1307, 1561770000
+[1561709672] sched.py:unburyCards(): []
+[1561709673] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 3,
+ 'mod': 1561630434709,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561709672,
+ 'uname': 'afilatov1989@gmail.com',
+ 'usn': 1878}
+[1561709673] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1561709672393,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561709673,
+ 'usn': 1878}
+[1561709673] sync.py:sync(): server chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1561709673] sync.py:newerRows(): cards, []
+[1561709673] sync.py:newerRows(): notes, []
+[1561709673] sync.py:sync(): client chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1561709673] sync.py:sync(): findChanges
+[1561709673] collection.py:__init__(): C:\Users\afila\Dropbox\Anki\User 1\collection.anki2, 2.1.13
+[1561709673] sched.py:_updateCutoff(): 1307, 1561770000
+[1561709680] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561630774, 'factor': 2300, 'flags': 0, 'id': 1553381288495, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1561630174, 'nid': 1553380893115, 'odid': 0, 'odue': 1307, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 2, 'usn': 1877}
+[1561709725] sched.py:answerCard(): 
+[1561709725] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1308, 'factor': 2300, 'flags': 0, 'id': 1553381288495, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1561709725, 'nid': 1553380893115, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561709725] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561630865, 'factor': 2000, 'flags': 0, 'id': 1554628755225, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1561630265, 'nid': 1554628496384, 'odid': 0, 'odue': 1307, 'ord': 0, 'queue': 1, 'reps': 5, 'type': 2, 'usn': 1877}
+[1561709760] sched.py:answerCard(): 
+[1561709760] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1308, 'factor': 2000, 'flags': 0, 'id': 1554628755225, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1561709760, 'nid': 1554628496384, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561709760] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1561630892, 'factor': 0, 'flags': 0, 'id': 1555497797301, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561630212, 'nid': 1555497575107, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': 1877}
+[1561709786] sched.py:answerCard(): 
+[1561709786] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1312, 'factor': 2500, 'flags': 0, 'id': 1555497797301, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1561709786, 'nid': 1555497575107, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561709786] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 5911, 'factor': 0, 'flags': 0, 'id': 1555926342388, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1555926342, 'nid': 1555925802926, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 1828}
+[1561709836] sched.py:answerCard(): 
+[1561709836] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561710534, 'factor': 0, 'flags': 0, 'id': 1555926342388, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1561709836, 'nid': 1555925802926, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1561709836] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1285, 'factor': 2500, 'flags': 0, 'id': 1553642043460, 'ivl': 21, 'lapses': 0, 'left': 1001, 'mod': 1557992121, 'nid': 1553640787549, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 1852}
+[1561709867] sched.py:answerCard(): 
+[1561709867] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1561710467, 'factor': 2300, 'flags': 0, 'id': 1553642043460, 'ivl': 1, 'lapses': 1, 'lastIvl': 21, 'left': 1001, 'mod': 1561709867, 'nid': 1553640787549, 'odid': 0, 'odue': 1308, 'ord': 0, 'queue': 1, 'reps': 6, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561709867] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1276, 'factor': 2500, 'flags': 0, 'id': 1553380682839, 'ivl': 28, 'lapses': 0, 'left': 2002, 'mod': 1556615398, 'nid': 1553380584375, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 1842}
+[1561709898] sched.py:answerCard(): 
+[1561709898] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1353, 'factor': 2350, 'flags': 0, 'id': 1553380682839, 'ivl': 46, 'lapses': 0, 'lastIvl': 28, 'left': 2002, 'mod': 1561709898, 'nid': 1553380584375, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1, 'wasNew': False}
+[1561709898] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 5912, 'factor': 0, 'flags': 0, 'id': 1555926692051, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1555926692, 'nid': 1555926342483, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 1828}
+[1561709961] sched.py:answerCard(): 
+[1561709961] cards.py:flushSched(): {'data': '', 'did': 1553377434964, 'due': 1310, 'factor': 2500, 'flags': 0, 'id': 1555926692051, 'ivl': 3, 'lapses': 0, 'left': 2002, 'mod': 1561709961, 'nid': 1555926342483, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 1, 'type': 2, 'usn': -1, 'wasNew': True}
+[1561709961] sched.py:getCard(): {'data': '', 'did': 1553377434964, 'due': 1281, 'factor': 2500, 'flags': 0, 'id': 1553381475376, 'ivl': 37, 'lapses': 0, 'left': 2002, 'mod': 1556262084, 'nid': 1553381288520, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 1838}
+[1561709972] collection.py:__init__(): C:\Users\afila\Dropbox\Anki\User 1\collection.anki2, 2.1.13
+[1561709972] sched.py:_updateCutoff(): 1307, 1561770000
+[1561709973] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 3,
+ 'mod': 1561709673499,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561709972,
+ 'uname': 'afilatov1989@gmail.com',
+ 'usn': 1879}
+[1561709973] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1561709972368,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1453405133942,
+ 'ts': 1561709973,
+ 'usn': 1879}
+[1561709973] sync.py:sync(): server chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1561709973] sync.py:newerRows(): cards, []
+[1561709973] sync.py:newerRows(): notes, []
+[1561709973] sync.py:sync(): client chunk, {'cards': [(1553380682839,
+            1553380584375,
+            1553377434964,
+            0,
+            1561709898,
+            1879,
+            2,
+            2,
+            1353,
+            46,
+            2350,
+            4,
+            0,
+            2002,
+            0,
+            0,
+            0,
+            ''),
+           (1553381288495,
+            1553380893115,
+            1553377434964,
+            0,
+            1561709725,
+            1879,
+            2,
+            2,
+            1308,
+            1,
+            2300,
+            5,
+            1,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1553642043460,
+            1553640787549,
+            1553377434964,
+            0,
+            1561709867,
+            1879,
+            2,
+            1,
+            1561710467,
+            1,
+            2300,
+            6,
+            1,
+            1001,
+            1308,
+            0,
+            0,
+            ''),
+           (1554628755225,
+            1554628496384,
+            1553377434964,
+            0,
+            1561709760,
+            1879,
+            2,
+            2,
+            1308,
+            1,
+            2000,
+            6,
+            1,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1555497797301,
+            1555497575107,
+            1553377434964,
+            0,
+            1561709786,
+            1879,
+            2,
+            2,
+            1312,
+            5,
+            2500,
+            2,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1555926342388,
+            1555925802926,
+            1553377434964,
+            0,
+            1561709836,
+            1879,
+            1,
+            1,
+            1561710534,
+            0,
+            0,
+            1,
+            0,
+            1001,
+            0,
+            0,
+            0,
+            ''),
+           (1555926692051,
+            1555926342483,
+            1553377434964,
+            0,
+            1561709961,
+            1879,
+            2,
+            2,
+            1310,
+            3,
+            2500,
+            1,
+            0,
+            2002,
+            0,
+            0,
+            0,
+            '')],
+ 'done': True,
+ 'notes': [],
+ 'revlog': [(1561709725716, 1553381288495, 1879, 2, 1, -600, 2300, 44903, 2),
+            (1561709760515, 1554628755225, 1879, 2, 1, -600, 2000, 34793, 2),
+            (1561709786074, 1555497797301, 1879, 3, 5, -600, 2500, 25557, 0),
+            (1561709836817, 1555926342388, 1879, 2, -600, -60, 0, 50741, 0),
+            (1561709867106, 1553642043460, 1879, 1, -600, 21, 2300, 30286, 1),
+            (1561709898785, 1553380682839, 1879, 2, 46, 28, 2350, 31678, 1),
+            (1561709961004, 1555926692051, 1879, 3, 3, -60, 2500, 62217, 0)]}
+[1561709973] sync.py:sync(): findChanges
